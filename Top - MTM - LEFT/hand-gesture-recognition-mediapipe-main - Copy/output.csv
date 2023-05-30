@@ -1,0 +1,2309 @@
+Output,Time (S)
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Idle,0.0
+Reach ,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Move,0.0
+Move,0.0
+Position,0.0
+Position,0.0
+Idle,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Reach ,0.0
+Grasp ,0.0
+Move,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Move,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Release,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Move,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Move,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Grasp ,0.0
+Release,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Idle,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Position,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Reach ,0.0
+Reach ,0.0
+Release,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Idle,0.0
+Idle,0.0
+Idle,0.0
+Reach ,0.0
+Grasp ,0.0
+Release,0.0
+Release,0.0
+Idle,0.0
+Release,0.0
+Reach ,0.0
+Release,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Release,0.0
+Reach ,0.0
+Release,0.0
+Release,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Release,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Idle,0.0
+Release,0.0
+Grasp ,0.0
+Idle,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Position,0.0
+Idle,0.0
+Grasp ,0.0
+Position,0.0
+Move,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Position,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Position,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Idle,0.0
+Reach ,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Release,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Position,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Idle,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Idle,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Release,0.0
+Idle,0.0
+Reach ,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Idle,0.0
+Release,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Idle,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Idle,0.0
+Idle,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Release,0.0
+Idle,0.0
+Idle,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Move,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Move,0.0
+Move,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Reach ,0.0
+Release,0.0
+Position,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Release,0.0
+Position,0.0
+Release,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Idle,0.0
+Release,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Release,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Release,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Release,0.0
+Release,0.0
+Grasp ,0.0
+Idle,0.0
+Idle,0.0
+Reach ,0.0
+Idle,0.0
+Reach ,0.0
+Idle,0.0
+Position,0.0
+Position,0.0
+Reach ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Idle,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Reach ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Move,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Idle,0.0
+Position,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Release,0.0
+Idle,0.0
+Reach ,0.0
+Idle,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Idle,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Grasp ,0.0
+Position,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Release,0.0
+Reach ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Release,0.0
+Position,0.0
+Position,0.0
+Release,0.0
+Release,0.0
+Idle,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Release,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Release,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Idle,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Idle,0.0
+Idle,0.0
+Reach ,0.0
+Idle,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Release,0.0
+Release,0.0
+Reach ,0.0
+Idle,0.0
+Position,0.0
+Reach ,0.0
+Grasp ,0.0
+Reach ,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Position,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Move,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Move,0.0
+Move,0.0
+Move,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Release,0.0
+Position,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Release,0.0
+Idle,0.0
+Idle,0.0
+Idle,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Idle,0.0
+Idle,0.0
+Grasp ,0.0
+Idle,0.0
+Idle,0.0
+Release,0.0
+Position,0.0
+Release,0.0
+Release,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Grasp ,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Reach ,0.0
+Idle,0.0
+Reach ,0.0
+Idle,0.0
+Reach ,0.0
+Idle,0.0
+Reach ,0.0
+Reach ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Grasp ,0.0
+Reach ,0.0
+Reach ,0.0
+Release,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Reach ,0.0
+Idle,0.0
+Idle,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Idle,0.0
+Position,0.0
+Idle,0.0
+Position,0.0
+Idle,0.0
+Idle,0.0
+Idle,0.0
+Idle,0.0
+Idle,0.0
+Idle,0.0
+Idle,0.0
+Idle,0.0
+Idle,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0
+Position,0.0

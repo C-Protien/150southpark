@@ -1,0 +1,423 @@
+group_id,Output,difference
+1,Grasp ,
+2,Release,0.0
+3,Reach ,0.0
+4,Idle,0.0
+5,Reach ,0.0
+6,Release,0.0
+7,Position,0.0
+8,Move,0.0
+9,Position,0.0
+10,Idle,0.0
+11,Reach ,0.0
+12,Grasp ,0.0
+13,Reach ,0.0
+14,Grasp ,0.0
+15,Reach ,0.0
+16,Grasp ,0.0
+17,Move,0.0
+18,Reach ,0.0
+19,Grasp ,0.0
+20,Move,0.0
+21,Reach ,0.0
+22,Move,0.0
+23,Grasp ,0.0
+24,Reach ,0.0
+25,Grasp ,0.0
+26,Move,0.0
+27,Reach ,0.0
+28,Grasp ,0.0
+29,Move,0.0
+30,Grasp ,0.0
+31,Move,0.0
+32,Grasp ,0.0
+33,Reach ,0.0
+34,Grasp ,0.0
+35,Reach ,0.0
+36,Grasp ,0.0
+37,Reach ,0.0
+38,Grasp ,0.0
+39,Reach ,0.0
+40,Release,0.0
+41,Grasp ,0.0
+42,Reach ,0.0
+43,Move,0.0
+44,Grasp ,0.0
+45,Move,0.0
+46,Grasp ,0.0
+47,Reach ,0.0
+48,Grasp ,0.0
+49,Reach ,0.0
+50,Grasp ,0.0
+51,Move,0.0
+52,Grasp ,0.0
+53,Move,0.0
+54,Grasp ,0.0
+55,Move,0.0
+56,Grasp ,0.0
+57,Move,0.0
+58,Grasp ,0.0
+59,Move,0.0
+60,Grasp ,0.0
+61,Release,0.0
+62,Reach ,0.0
+63,Grasp ,0.0
+64,Idle,0.0
+65,Move,0.0
+66,Grasp ,0.0
+67,Reach ,0.0
+68,Position,0.0
+69,Move,0.0
+70,Grasp ,0.0
+71,Reach ,0.0
+72,Grasp ,0.0
+73,Reach ,0.0
+74,Grasp ,0.0
+75,Reach ,0.0
+76,Grasp ,0.0
+77,Reach ,0.0
+78,Release,0.0
+79,Reach ,0.0
+80,Release,0.0
+81,Reach ,0.0
+82,Grasp ,0.0
+83,Reach ,0.0
+84,Grasp ,0.0
+85,Idle,0.0
+86,Reach ,0.0
+87,Grasp ,0.0
+88,Release,0.0
+89,Idle,0.0
+90,Release,0.0
+91,Reach ,0.0
+92,Release,0.0
+93,Reach ,0.0
+94,Position,0.0
+95,Grasp ,0.0
+96,Reach ,0.0
+97,Release,0.0
+98,Reach ,0.0
+99,Release,0.0
+100,Reach ,0.0
+101,Grasp ,0.0
+102,Reach ,0.0
+103,Grasp ,0.0
+104,Reach ,0.0
+105,Grasp ,0.0
+106,Reach ,0.0
+107,Grasp ,0.0
+108,Position,0.0
+109,Release,0.0
+110,Position,0.0
+111,Idle,0.0
+112,Release,0.0
+113,Grasp ,0.0
+114,Idle,0.0
+115,Position,0.0
+116,Grasp ,0.0
+117,Reach ,0.0
+118,Position,0.0
+119,Idle,0.0
+120,Grasp ,0.0
+121,Position,0.0
+122,Move,0.0
+123,Position,0.0
+124,Release,0.0
+125,Position,0.0
+126,Release,0.0
+127,Position,0.0
+128,Release,0.0
+129,Reach ,0.0
+130,Idle,0.0
+131,Reach ,0.0
+132,Release,0.0
+133,Position,0.0
+134,Release,0.0
+135,Position,0.0
+136,Release,0.0
+137,Position,0.0
+138,Grasp ,0.0
+139,Reach ,0.0
+140,Grasp ,0.0
+141,Move,0.0
+142,Grasp ,0.0
+143,Reach ,0.0
+144,Grasp ,0.0
+145,Position,0.0
+146,Reach ,0.0
+147,Grasp ,0.0
+148,Move,0.0
+149,Grasp ,0.0
+150,Reach ,0.0
+151,Position,0.0
+152,Reach ,0.0
+153,Position,0.0
+154,Grasp ,0.0
+155,Position,0.0
+156,Idle,0.0
+157,Grasp ,0.0
+158,Idle,0.0
+159,Grasp ,0.0
+160,Release,0.0
+161,Idle,0.0
+162,Reach ,0.0
+163,Release,0.0
+164,Reach ,0.0
+165,Grasp ,0.0
+166,Reach ,0.0
+167,Grasp ,0.0
+168,Idle,0.0
+169,Release,0.0
+170,Position,0.0
+171,Grasp ,0.0
+172,Reach ,0.0
+173,Grasp ,0.0
+174,Idle,0.0
+175,Grasp ,0.0
+176,Reach ,0.0
+177,Idle,0.0
+178,Position,0.0
+179,Release,0.0
+180,Idle,0.0
+181,Release,0.0
+182,Grasp ,0.0
+183,Release,0.0
+184,Reach ,0.0
+185,Grasp ,0.0
+186,Reach ,0.0
+187,Grasp ,0.0
+188,Position,0.0
+189,Reach ,0.0
+190,Grasp ,0.0
+191,Reach ,0.0
+192,Grasp ,0.0
+193,Reach ,0.0
+194,Grasp ,0.0
+195,Reach ,0.0
+196,Grasp ,0.0
+197,Move,0.0
+198,Grasp ,0.0
+199,Position,0.0
+200,Grasp ,0.0
+201,Position,0.0
+202,Grasp ,0.0
+203,Position,0.0
+204,Move,0.0
+205,Position,0.0
+206,Move,0.0
+207,Position,0.0
+208,Reach ,0.0
+209,Release,0.0
+210,Position,0.0
+211,Reach ,0.0
+212,Grasp ,0.0
+213,Reach ,0.0
+214,Grasp ,0.0
+215,Move,0.0
+216,Position,0.0
+217,Grasp ,0.0
+218,Position,0.0
+219,Release,0.0
+220,Position,0.0
+221,Release,0.0
+222,Grasp ,0.0
+223,Position,0.0
+224,Grasp ,0.0
+225,Position,0.0
+226,Idle,0.0
+227,Release,0.0
+228,Position,0.0
+229,Release,0.0
+230,Position,0.0
+231,Grasp ,0.0
+232,Move,0.0
+233,Grasp ,0.0
+234,Release,0.0
+235,Grasp ,0.0
+236,Release,0.0
+237,Grasp ,0.0
+238,Idle,0.0
+239,Reach ,0.0
+240,Idle,0.0
+241,Reach ,0.0
+242,Idle,0.0
+243,Position,0.0
+244,Reach ,0.0
+245,Grasp ,0.0
+246,Reach ,0.0
+247,Position,0.0
+248,Grasp ,0.0
+249,Position,0.0
+250,Grasp ,0.0
+251,Idle,0.0
+252,Grasp ,0.0
+253,Reach ,0.0
+254,Grasp ,0.0
+255,Reach ,0.0
+256,Position,0.0
+257,Grasp ,0.0
+258,Position,0.0
+259,Grasp ,0.0
+260,Move,0.0
+261,Position,0.0
+262,Grasp ,0.0
+263,Position,0.0
+264,Grasp ,0.0
+265,Reach ,0.0
+266,Move,0.0
+267,Position,0.0
+268,Grasp ,0.0
+269,Idle,0.0
+270,Position,0.0
+271,Move,0.0
+272,Grasp ,0.0
+273,Release,0.0
+274,Idle,0.0
+275,Reach ,0.0
+276,Idle,0.0
+277,Move,0.0
+278,Grasp ,0.0
+279,Move,0.0
+280,Idle,0.0
+281,Position,0.0
+282,Grasp ,0.0
+283,Position,0.0
+284,Grasp ,0.0
+285,Position,0.0
+286,Grasp ,0.0
+287,Position,0.0
+288,Grasp ,0.0
+289,Position,0.0
+290,Release,0.0
+291,Reach ,0.0
+292,Position,0.0
+293,Reach ,0.0
+294,Position,0.0
+295,Grasp ,0.0
+296,Position,0.0
+297,Release,0.0
+298,Position,0.0
+299,Release,0.0
+300,Idle,0.0
+301,Position,0.0
+302,Grasp ,0.0
+303,Position,0.0
+304,Grasp ,0.0
+305,Position,0.0
+306,Grasp ,0.0
+307,Position,0.0
+308,Move,0.0
+309,Grasp ,0.0
+310,Release,0.0
+311,Grasp ,0.0
+312,Move,0.0
+313,Reach ,0.0
+314,Grasp ,0.0
+315,Move,0.0
+316,Grasp ,0.0
+317,Move,0.0
+318,Grasp ,0.0
+319,Reach ,0.0
+320,Grasp ,0.0
+321,Release,0.0
+322,Grasp ,0.0
+323,Reach ,0.0
+324,Grasp ,0.0
+325,Move,0.0
+326,Grasp ,0.0
+327,Reach ,0.0
+328,Move,0.0
+329,Grasp ,0.0
+330,Move,0.0
+331,Reach ,0.0
+332,Grasp ,0.0
+333,Reach ,0.0
+334,Grasp ,0.0
+335,Move,0.0
+336,Grasp ,0.0
+337,Reach ,0.0
+338,Move,0.0
+339,Reach ,0.0
+340,Grasp ,0.0
+341,Reach ,0.0
+342,Idle,0.0
+343,Reach ,0.0
+344,Idle,0.0
+345,Reach ,0.0
+346,Idle,0.0
+347,Grasp ,0.0
+348,Reach ,0.0
+349,Grasp ,0.0
+350,Move,0.0
+351,Grasp ,0.0
+352,Reach ,0.0
+353,Grasp ,0.0
+354,Move,0.0
+355,Grasp ,0.0
+356,Move,0.0
+357,Reach ,0.0
+358,Grasp ,0.0
+359,Move,0.0
+360,Grasp ,0.0
+361,Move,0.0
+362,Grasp ,0.0
+363,Move,0.0
+364,Grasp ,0.0
+365,Move,0.0
+366,Grasp ,0.0
+367,Release,0.0
+368,Reach ,0.0
+369,Idle,0.0
+370,Position,0.0
+371,Reach ,0.0
+372,Grasp ,0.0
+373,Reach ,0.0
+374,Release,0.0
+375,Position,0.0
+376,Move,0.0
+377,Position,0.0
+378,Move,0.0
+379,Grasp ,0.0
+380,Move,0.0
+381,Grasp ,0.0
+382,Move,0.0
+383,Grasp ,0.0
+384,Position,0.0
+385,Release,0.0
+386,Position,0.0
+387,Release,0.0
+388,Idle,0.0
+389,Grasp ,0.0
+390,Position,0.0
+391,Grasp ,0.0
+392,Position,0.0
+393,Grasp ,0.0
+394,Position,0.0
+395,Idle,0.0
+396,Grasp ,0.0
+397,Idle,0.0
+398,Release,0.0
+399,Position,0.0
+400,Release,0.0
+401,Position,0.0
+402,Grasp ,0.0
+403,Position,0.0
+404,Reach ,0.0
+405,Idle,0.0
+406,Reach ,0.0
+407,Idle,0.0
+408,Reach ,0.0
+409,Idle,0.0
+410,Reach ,0.0
+411,Grasp ,0.0
+412,Reach ,0.0
+413,Release,0.0
+414,Reach ,0.0
+415,Idle,0.0
+416,Position,0.0
+417,Idle,0.0
+418,Position,0.0
+419,Idle,0.0
+420,Position,0.0
+421,Idle,0.0
+422,Position,0.0
